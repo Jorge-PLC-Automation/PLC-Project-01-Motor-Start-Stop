@@ -62,12 +62,13 @@ This exact circuit controls:
 - **OpenPLC Simulator** — built-in logic simulation & debug
 
 ---
-
 ## 📸 Screenshots
 
-*Simulation screenshot — ladder logic with live power flow*
+### Simulation Running — Motor Energized (Full Green Power Flow)
+![Motor Start/Stop Simulation](Motor-Start-Stop01.png)
 
-> Screenshots folder coming soon
+*Live simulation showing: Stop NC contact passing power → Start contact → 
+Motor seal-in contact (parallel) → Motor output coil energized (GREEN = ON)*
 
 ---
 
